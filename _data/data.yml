@@ -75,14 +75,16 @@ education:
     title: Education
     info:
       - degree: High School Diploma
-        university: Excel Education Center | Fort Mohave, AZ
+        university: Excel Education Center
+                    Fort Mohave, AZ
         time: 2003 - 2007
         details: |
           General education, majored in science and math. Treasurer of student
           councel. Completed a senior portfolio project using microsoft word,
           powerpoint and exel.
             - GPA 3.5
-            - Soccer Player | Defence\Midfielder
+            - Soccer Player  
+              Defence\Midfielder
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
