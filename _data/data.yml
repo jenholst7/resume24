@@ -74,17 +74,15 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: High School Diploma
+        university: Excel Education Center | Fort Mohave, AZ
+        time: 2003 - 2007
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          General education, majored in science and math. Treasurer of student
+          councel. Completed a senior portfolio project using microsoft word,
+          powerpoint and exel.
+            - GPA 3.5
+            - Soccer Player | Defence\Midfielder
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
