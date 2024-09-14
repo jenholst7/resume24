@@ -75,8 +75,9 @@ education:
     title: Education
     info:
       - degree: High School Diploma
-        university:  Excel Education Center  
-        university:  Fort Mohave, AZ
+        role: General Education
+        university:  Excel Education Center
+        company:  Fort Mohave, AZ
         time: 2003 - 2007
         details: |
           General education, majored in science and math. Treasurer of student
