@@ -48,10 +48,16 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Family Time
           link:
 
-        - item: Snowboarding
+        - item: Watch Movies
+          link:
+
+        - item: Listening to Music
+          link: 
+
+        - item: Decorating
           link:
 
         - item: Cooking
@@ -59,13 +65,12 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: I am a hard-worker, I like working in fast pace environments 
+    and work well under pressure. I am great at multi-tasking, I work well 
+    on a team or as an individual. I pay attention to detail, I am a great 
+    problem solver. I would like to work for a Company that encourages and
+    promotes career growth. 
+      
 education:
     title: Education
     info:
