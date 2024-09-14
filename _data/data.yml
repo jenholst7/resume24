@@ -75,7 +75,8 @@ education:
     title: Education
     info:
       - degree: High School Diploma
-        university: Excel Education Center
+        university: |+ 
+                    Excel Education Center 
                     Fort Mohave, AZ
         time: 2003 - 2007
         details: |
