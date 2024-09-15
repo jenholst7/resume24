@@ -97,31 +97,28 @@ experiences:
     title: Experiences
     info:
       - role: Server/Bartender
-        time: 2021-2022
+        time: 2020-2021
         company: Dotty's, Laughlin NV
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          I took Food and Beverage orders for guest in our whole casino bar including at machines.
+          I prepared and servered food to guests, Sandwiches, burgers, sides, snacks, 
+          alcoholic beverages,coffee and soft drinks. I sold cigarettes and bottles of alcohol.
+          I helped guest with promotional items while giving them Excellent Customer Service.
+          I cleaned, stocked and organized all of bar. 
+
+          
+      - role: Cashier/Food Attendant
+        time: 2021-2022
+        company: Cinnabon Harrah's Casino, Laughlin NV
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I servered guests food and coffee beverages. Took coffee orders and got them ready 
+          for guests. Made food by rolling dough and making different types of pasteries.
+          I prepared different premixed coffee mixtures. Stocked the coolers and refrigerators 
+          using first in last out rotation and did inventory. I counted draweres and handled all
+          cash. I cleaned, stocked and organized the whole restaurant. I was training to be the
+          Manager of restaurant. 
+
+            
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
