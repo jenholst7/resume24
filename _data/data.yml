@@ -84,17 +84,14 @@ education:
             - GPA 3.5
             - Soccer Player  
               Defence\Midfielder
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree:  Working on Associates Degree Applied Science
+        university: Saddleback College
+        time: 2014 - 2015
+        details: Nutrition, Math, Science
+          I was studing Health & Nutrition. I took Mathematics classes in Algebra to prefiect my math skills. 
+          I studied alot of Biology and Chemisty majoring in Science and Math.   
+        
+            
 
 experiences:
     title: Experiences
