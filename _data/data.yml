@@ -142,7 +142,7 @@ certifications:
 
         - name: Alcohol Certification Card AZ & NM
           start: 2023
-          end:2026
+          end: 2026
           organization: State Food Safety 
           credentialid: 
           credentialurl: www.statefoodsafety.com
