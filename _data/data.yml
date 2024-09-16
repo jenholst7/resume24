@@ -199,9 +199,9 @@ oss:
 publications:
     title: References
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+       #You can list your publications in this section. Lorem ipsum dolor sit
+       #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+       #bibendum fringilla a eu lectus.
     papers:
       - title: Guz Roldan
         link: # "#"
