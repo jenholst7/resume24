@@ -223,7 +223,7 @@ skills:
 
     toolset:
       - name: Manager Courses
-        level: # 98%
+        level: 60%
 
       - name: Budgeting 
         level: # 98%
@@ -232,7 +232,7 @@ skills:
         level: # 98%
 
       - name: Microsoft Word, Power Point & Excel
-        level: # 95%
+        level: 80%
 
       - name: Customer Service and Cash Handling 
         level: # 85%
