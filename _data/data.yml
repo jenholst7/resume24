@@ -203,17 +203,17 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Guz Roldan
+        link: # "#"
+        authors: #
+        conference:702-420-0158
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Jim Olsen
+        link: # "#"
+        authors: # Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: 928-758-2212
 
-      - title: A syntax directed compiler for Algol 60
+      - title: 
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
