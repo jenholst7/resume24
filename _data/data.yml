@@ -17,7 +17,7 @@ sidebar:
     phone: +1 (928)450-8463
     timezone: America/Arizona # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: US Citizen
-    website: My Site (https://jenholst7.github.io/resume24/) # Include the full website URL, including "http://" or "https://".
+    website: https://jenholst7.github.io/resume24/ # Include the full website URL, including "http://" or "https://".
     linkedin: #JenHolst
     xing: #JenHolst
     github: jenholst7 
@@ -31,7 +31,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: https://jenholst7.github.io/Resume24.pdf/
+    pdf: https://jenholst7.github.io/resume24/Resume24.pdf/
 
     languages:
       title: Languages
