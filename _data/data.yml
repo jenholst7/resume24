@@ -177,7 +177,7 @@ projects: #
         link: # "#"
         tagline: # "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
+oss: #
     title: # OSS Contributions
     intro: # >
        #You can list your open source software contributions in this
@@ -198,10 +198,8 @@ oss:
 
 publications:
     title: References
-    intro: # |
-       #You can list your publications in this section. Lorem ipsum dolor sit
-       #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-       #bibendum fringilla a eu lectus.
+    intro: |
+      A list of past associates I have worked with or worked for perfosional and personal.     
     papers:
       - title: Guz Roldan
         link: # "#"
